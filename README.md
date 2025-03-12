@@ -32,7 +32,9 @@
 🎯 Key Features:
 
 ✔️ Data Cleaning - Ensures consistency, removes errors, and improves data quality.
+
 ✔️ Ranking Implementation - Categorizes restaurants based on predefined criteria for better insights.
+
 ✔️ Structured Workflow - Modular SQL scripts for step-by-step processing.
 
 📜 License
