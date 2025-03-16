@@ -5,8 +5,8 @@
 
 
 📌 Overview :
-  This project focuses on cleaning and processing restaurant data using SQL scripts. The dataset contains restaurant-related information that undergoes a series of transformations to ensure data quality, 
-   consistency, and usability for analysis.
+      This project focuses on cleaning and processing restaurant data using SQL scripts. The dataset contains restaurant-related information that undergoes a series of transformations to ensure data quality, 
+       consistency, and usability for analysis.
 
 📂 Files & Structure:
 
